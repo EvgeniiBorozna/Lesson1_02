@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Home\С++\Lesson1_02\main.cpp(9,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson1_02.vcxproj -> D:\Home\С++\Lesson1_02\x64\Debug\Lesson1_02.exe
